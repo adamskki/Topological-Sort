@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\michał\source\repos\grafy_zad2\main.cpp(23): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\michał\source\repos\grafy_zad2\main.cpp(26): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\michał\source\repos\grafy_zad2\main.cpp(94): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  Grafy_zad2.vcxproj -> C:\Users\Michał\source\repos\Grafy_zad2\Debug\Grafy_zad2.exe
